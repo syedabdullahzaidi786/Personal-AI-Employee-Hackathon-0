@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: silver-tier
 branch: main
-user: sharmeenofficial.28@gmail.com
+user: syedabdullahzaidi
 command: "gmail smtp auto-send like linkedin"
 labels: ["gmail", "smtp", "auto-send", "silver-tier", "email-action"]
 links:

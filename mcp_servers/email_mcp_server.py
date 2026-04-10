@@ -2,7 +2,7 @@
 Email MCP Server — Personal AI Employee (Gold Tier)
 ====================================================
 Exposes Gmail SMTP email sending as MCP tools so Claude can
-send emails on behalf of Sharmeen Fatima autonomously.
+send emails on behalf of Syed Abdullah Zaidi autonomously.
 
 Tools provided:
   - send_email        → send an email via Gmail SMTP
@@ -60,7 +60,7 @@ def _make_adapter():
 @mcp.tool()
 def send_email(to: str, subject: str, body: str) -> str:
     """
-    Send an email on behalf of Sharmeen Fatima via Gmail SMTP.
+    Send an email on behalf of Syed Abdullah Zaidi via Gmail SMTP.
 
     Args:
         to:      Recipient email address (e.g. "someone@gmail.com").

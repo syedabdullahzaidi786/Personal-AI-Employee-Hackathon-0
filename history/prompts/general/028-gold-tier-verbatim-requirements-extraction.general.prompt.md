@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: read docx Gold Tier section verbatim
 labels: ["gold-tier","requirements","docx","extraction"]
 links:

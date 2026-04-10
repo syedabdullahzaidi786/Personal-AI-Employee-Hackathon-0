@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: gold-tier
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: "implement gold tier from .env credentials"
 labels: ["gold-tier", "whatsapp", "twilio", "odoo", "xml-rpc", "live"]
 links:

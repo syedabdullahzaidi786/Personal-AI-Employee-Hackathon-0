@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: whatsapp-broadcast
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: manual debugging session
 labels: ["whatsapp", "playwright", "bugfix", "broadcast"]
 links:

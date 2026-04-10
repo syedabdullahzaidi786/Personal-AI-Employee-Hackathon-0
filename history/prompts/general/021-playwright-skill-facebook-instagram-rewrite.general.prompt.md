@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen
+user: Syed Abdullah Zaidi
 command: playwright skill + FB/IG rewrite
 labels: ["playwright", "facebook", "instagram", "selenium-migration", "pw_browser", "chrome-fix"]
 links:

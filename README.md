@@ -3,7 +3,7 @@
 **Status**: Platinum Tier — COMPLETE ✅ 💎
 **Version**: 5.0.0
 **Tier**: Platinum 💎
-**Author**: Sharmeen Fatima — Creative Coderr
+**Author**: Syed Abdullah Zaidi
 
 ---
 
@@ -421,5 +421,5 @@ Personal project for GIAIC Hackathon 0.
 
 **Last Updated**: 2026-04-09
 **Tier**: Platinum 💎 — COMPLETE ✅ (Cloud+Local Flow LIVE + Odoo Invoice Approval LIVE)
-**Author**: Sharmeen Fatima — Creative Coderr
+**Author**: Syed Abdullah Zaidi
 "# Personal-AI-Employee-Hackathon-0" 

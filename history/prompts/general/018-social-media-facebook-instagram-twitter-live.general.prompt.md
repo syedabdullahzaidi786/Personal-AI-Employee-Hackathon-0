@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: gold-tier
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: "implement facebook instagram twitter selenium poster like linkedin"
 labels: ["gold-tier", "facebook", "instagram", "twitter", "selenium", "live"]
 links:

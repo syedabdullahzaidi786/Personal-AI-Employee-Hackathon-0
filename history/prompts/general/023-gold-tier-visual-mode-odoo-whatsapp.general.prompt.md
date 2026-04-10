@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen
+user: Syed Abdullah Zaidi
 command: make Gold Tier visually visible — Odoo browser + WhatsApp terminal visual
 labels: ["gold-tier", "odoo", "whatsapp", "playwright", "visual", "run_gold_live"]
 links:

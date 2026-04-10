@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen
+user: Syed Abdullah Zaidi
 command: playwright FB/IG debug + LIVE post + post content update
 labels: ["playwright", "facebook", "instagram", "live", "persistent-session", "complete"]
 links:

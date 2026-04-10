@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: Read full Word document contents
 labels: ["document-read","hackathon-spec","reference"]
 links:

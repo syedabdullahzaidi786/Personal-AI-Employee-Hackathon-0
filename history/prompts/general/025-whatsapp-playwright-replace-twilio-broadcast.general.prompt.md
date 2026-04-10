@@ -8,7 +8,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: gold-tier-whatsapp-refactor
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: user request — WhatsApp Twilio hatao, Playwright Web se multiple numbers broadcast
 labels: ["whatsapp", "playwright", "broadcast", "twilio-removal", "gold-tier"]
 ---

@@ -79,15 +79,15 @@ def main():
     # ── Resolve message ─────────────────────────────────────────
     message = args.message.strip() or (
         "Hello,\n\n"
-        "This is an automated message sent on behalf of Sharmeen Fatima.\n\n"
-        "I hope this message finds you well. Sharmeen wanted to reach out to you "
+        "This is an automated message sent on behalf of Syed Abdullah Zaidi.\n\n"
+        "I hope this message finds you well. Syed Abdullah Zaidi wanted to reach out to you "
         "regarding the GIAIC Hackathon 2026. As part of the Personal AI Employee "
-        "project, this communication has been dispatched automatically by her AI Agent.\n\n"
+        "project, this communication has been dispatched automatically by his AI Agent.\n\n"
         "Should you have any questions or wish to get in touch, please reply directly "
-        "to this message and Sharmeen will respond at her earliest convenience.\n\n"
+        "to this message and Syed Abdullah Zaidi will respond at his earliest convenience.\n\n"
         "Best regards,\n"
         "AI Agent — Personal AI Employee\n"
-        "On behalf of Sharmeen Fatima"
+        "On behalf of Syed Abdullah Zaidi"
     )
 
     # ── Header ──────────────────────────────────────────────────

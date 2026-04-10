@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: gold-tier
 branch: main
-user: Sharmeen Fatima
+user: Syed Abdullah Zaidi
 command: "debug facebook instagram selenium crash"
 labels: ["gold-tier", "facebook", "instagram", "selenium", "debug", "crash", "windows"]
 links:

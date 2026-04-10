@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: none
 branch: main
-user: Sharmeen
+user: Syed Abdullah Zaidi
 command: resume + fix FB/IG crash
 labels: ["facebook", "instagram", "selenium", "crash-fix", "chromedriver", "appcontainer", "subprocess"]
 links:

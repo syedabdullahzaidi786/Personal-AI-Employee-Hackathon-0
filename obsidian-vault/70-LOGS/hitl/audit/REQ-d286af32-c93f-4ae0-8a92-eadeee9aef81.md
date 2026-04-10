@@ -18,7 +18,7 @@ _Submitted_: `2026-03-03T15:41:37.522803+00:00`
 
 ## [15:42:11 UTC] DECISION_RECORDED: APPROVED
 
-- **Decided By**: sharmeen
+- **Decided By**: Syed Abdullah Zaidi
 - **Decided At**: 2026-03-03T15:42:11.041491+00:00
 - **Reason**: —
 - **Comment**: Invoice verified, client confirmed. OK to send.
