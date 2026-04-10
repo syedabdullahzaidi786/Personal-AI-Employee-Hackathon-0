@@ -1,0 +1,40 @@
+{
+  "request_id": "REQ-2408f79a-b925-4546-8c85-02c516035b98",
+  "agent_id": "ralph-agent-01",
+  "operation": "delete_file",
+  "tier": 3,
+  "action_summary": "Delete production log file: /var/log/app.log",
+  "reason": "Disk space cleanup required",
+  "details": {},
+  "risk": {
+    "blast_radius": "medium",
+    "reversibility": "irreversible"
+  },
+  "submitted_at": "2026-03-03T14:51:00.677576+00:00",
+  "status": "DENIED",
+  "options": [
+    "approve",
+    "deny",
+    "defer"
+  ],
+  "checksum": "sha256:88c40f9a21a3f8ee5774bd2c2b633686696e96bc86ae425c1726aacadc1ef15c",
+  "sla": {
+    "tier": 3,
+    "sla_seconds": 3600,
+    "submitted_at": "2026-03-03T14:51:00.677576+00:00",
+    "required_by": "2026-03-03T15:51:00.677576+00:00",
+    "escalation_at": "2026-03-03T15:21:00.677576+00:00",
+    "timeout_action": "deny"
+  },
+  "decision": {
+    "request_id": "REQ-2408f79a-b925-4546-8c85-02c516035b98",
+    "action": "DENIED",
+    "decided_by": "SYSTEM",
+    "decided_at": "2026-03-03T16:01:42.852553+00:00",
+    "reason": "SLA timeout — no decision received. Default action: deny",
+    "comment": "",
+    "modifications": null,
+    "checksum": "sha256:85dfff1e3910be9b86501653e563c91042a38ae395d5fc30922d8f666e610431",
+    "auto_approved": false
+  }
+}

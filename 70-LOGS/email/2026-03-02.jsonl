@@ -1,0 +1,8 @@
+{"event": "submitted", "request_id": "EMAIL-1E023A4E", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-02T15:45:40.598910+00:00"}
+{"event": "result", "request_id": "EMAIL-1E023A4E", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-02T15:45:40.600424+00:00"}
+{"event": "submitted", "request_id": "EMAIL-1FB7590E", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-02T15:48:27.600399+00:00"}
+{"event": "result", "request_id": "EMAIL-1FB7590E", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-02T15:48:27.601275+00:00"}
+{"event": "submitted", "request_id": "EMAIL-5779CD98", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-02T15:54:08.545185+00:00"}
+{"event": "result", "request_id": "EMAIL-5779CD98", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-02T15:54:08.546751+00:00"}
+{"event": "submitted", "request_id": "EMAIL-55D9C9C7", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-02T16:20:00.309165+00:00"}
+{"event": "result", "request_id": "EMAIL-55D9C9C7", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-02T16:20:00.310250+00:00"}

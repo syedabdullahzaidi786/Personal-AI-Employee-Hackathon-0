@@ -1,0 +1,40 @@
+{
+  "request_id": "REQ-d286af32-c93f-4ae0-8a92-eadeee9aef81",
+  "agent_id": "fs-watcher-agent",
+  "operation": "send_email",
+  "tier": 2,
+  "action_summary": "Send invoice to client@example.com — INV-2026-001 for 00",
+  "reason": "Client requested invoice via WhatsApp",
+  "details": {},
+  "risk": {
+    "blast_radius": "low",
+    "reversibility": "reversible"
+  },
+  "submitted_at": "2026-03-03T15:41:37.522803+00:00",
+  "status": "APPROVED",
+  "options": [
+    "approve",
+    "deny",
+    "defer"
+  ],
+  "checksum": "sha256:466b644ef910e3a0dd58a66ede17fda0774de42831030155231481bcacf73224",
+  "sla": {
+    "tier": 2,
+    "sla_seconds": 14400,
+    "submitted_at": "2026-03-03T15:41:37.522803+00:00",
+    "required_by": "2026-03-03T19:41:37.522803+00:00",
+    "escalation_at": "2026-03-03T17:41:37.522803+00:00",
+    "timeout_action": "deny"
+  },
+  "decision": {
+    "request_id": "REQ-d286af32-c93f-4ae0-8a92-eadeee9aef81",
+    "action": "APPROVED",
+    "decided_by": "sharmeen",
+    "decided_at": "2026-03-03T15:42:11.041491+00:00",
+    "reason": "",
+    "comment": "Invoice verified, client confirmed. OK to send.",
+    "modifications": null,
+    "checksum": "sha256:1a273c90b46a4e4067af0f27ad2b2bbbab6d7ca20e19faa093f50337814e307d",
+    "auto_approved": false
+  }
+}

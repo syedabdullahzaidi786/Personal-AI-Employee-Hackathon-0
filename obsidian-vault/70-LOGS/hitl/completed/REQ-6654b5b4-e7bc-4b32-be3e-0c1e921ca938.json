@@ -1,0 +1,40 @@
+{
+  "request_id": "REQ-6654b5b4-e7bc-4b32-be3e-0c1e921ca938",
+  "agent_id": "ralph-agent-01",
+  "operation": "delete_file",
+  "tier": 3,
+  "action_summary": "Delete production log file: /var/log/app.log",
+  "reason": "Disk space cleanup required",
+  "details": {},
+  "risk": {
+    "blast_radius": "medium",
+    "reversibility": "irreversible"
+  },
+  "submitted_at": "2026-03-03T14:51:11.181047+00:00",
+  "status": "APPROVED",
+  "options": [
+    "approve",
+    "deny",
+    "defer"
+  ],
+  "checksum": "sha256:d026860d40caffc34a1e391fa025a64e434f184eb7c3666f92130972042dd035",
+  "sla": {
+    "tier": 3,
+    "sla_seconds": 3600,
+    "submitted_at": "2026-03-03T14:51:11.181047+00:00",
+    "required_by": "2026-03-03T15:51:11.181047+00:00",
+    "escalation_at": "2026-03-03T15:21:11.181047+00:00",
+    "timeout_action": "deny"
+  },
+  "decision": {
+    "request_id": "REQ-6654b5b4-e7bc-4b32-be3e-0c1e921ca938",
+    "action": "APPROVED",
+    "decided_by": "alice",
+    "decided_at": "2026-03-03T14:51:33.372607+00:00",
+    "reason": "",
+    "comment": "Reviewed - OK to delete",
+    "modifications": null,
+    "checksum": "sha256:21b1dec2c9a595a1d1d72ce92adc5292d2fb9a69c42f5e90c53e408ab9b50d45",
+    "auto_approved": false
+  }
+}

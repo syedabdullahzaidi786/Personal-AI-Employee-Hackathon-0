@@ -1,0 +1,29 @@
+{
+  "request_id": "REQ-d300f9b2-be6f-4c1f-892b-2b9345bfe1a4",
+  "agent_id": "my-agent",
+  "operation": "send_email",
+  "tier": 2,
+  "action_summary": "Invoice email bhejna hai",
+  "reason": "Client ne request ki",
+  "details": {},
+  "risk": {
+    "blast_radius": "low",
+    "reversibility": "reversible"
+  },
+  "submitted_at": "2026-03-03T16:13:31.974248+00:00",
+  "status": "PENDING",
+  "options": [
+    "approve",
+    "deny",
+    "defer"
+  ],
+  "checksum": "sha256:bde7cb25191e8135366b6cddb138e83b73c5be1e1c940c95183d1521aee05bf7",
+  "sla": {
+    "tier": 2,
+    "sla_seconds": 14400,
+    "submitted_at": "2026-03-03T16:13:31.974248+00:00",
+    "required_by": "2026-03-03T20:13:31.974248+00:00",
+    "escalation_at": "2026-03-03T18:13:31.974248+00:00",
+    "timeout_action": "deny"
+  }
+}

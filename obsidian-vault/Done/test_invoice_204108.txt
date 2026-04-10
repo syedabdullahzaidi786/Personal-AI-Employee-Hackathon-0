@@ -1,0 +1,4 @@
+Client: Acme Corp
+Amount: $500
+Due: 2026-03-10
+Invoice: #1234

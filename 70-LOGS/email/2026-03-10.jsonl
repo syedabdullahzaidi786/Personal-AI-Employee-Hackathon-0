@@ -1,0 +1,6 @@
+{"event": "submitted", "request_id": "EMAIL-CA67B4C5", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-10T14:45:33.481887+00:00"}
+{"event": "result", "request_id": "EMAIL-CA67B4C5", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-10T14:45:33.484114+00:00"}
+{"event": "submitted", "request_id": "EMAIL-AD6C760E", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-10T15:27:22.472931+00:00"}
+{"event": "result", "request_id": "EMAIL-AD6C760E", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-10T15:27:22.476120+00:00"}
+{"event": "submitted", "request_id": "EMAIL-19149B88", "to": ["x@y.com"], "subject": "Test", "tier": 1, "ts": "2026-03-10T15:43:30.881481+00:00"}
+{"event": "result", "request_id": "EMAIL-19149B88", "status": "SENT", "adapter": "mock", "error": "", "ts": "2026-03-10T15:43:30.882691+00:00"}

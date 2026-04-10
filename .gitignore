@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.*
+*.secret
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs (keep structure, ignore raw cache)
+*.log
+
+# Playwright browser sessions (contain login cookies — never commit)
+obsidian-vault/browser-sessions/
+wa_session/
+
+# WhatsApp debug screenshots (temp files)
+wa_*.png
+
+# WhatsApp watcher message cache
+obsidian-vault/watchers/
+platinum_tier_business_layer/vault/

@@ -1,0 +1,12 @@
+{
+  "watcher_id": "gmail-sharmeenofficial_28_at_gmail_com",
+  "status": "running",
+  "poll_count": 3,
+  "error_count": 0,
+  "consecutive_errors": 0,
+  "total_events": 7,
+  "last_poll_at": "2026-03-20T16:03:00.056878+00:00",
+  "last_event_at": "2026-03-20T16:03:06.036531+00:00",
+  "started_at": "2026-03-20T16:03:00.051294+00:00",
+  "stopped_at": null
+}

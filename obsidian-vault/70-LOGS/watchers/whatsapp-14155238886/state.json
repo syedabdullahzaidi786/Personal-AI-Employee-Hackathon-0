@@ -1,0 +1,12 @@
+{
+  "watcher_id": "whatsapp-14155238886",
+  "status": "running",
+  "poll_count": 8,
+  "error_count": 0,
+  "consecutive_errors": 0,
+  "total_events": 0,
+  "last_poll_at": "2026-03-28T02:12:58.483874+00:00",
+  "last_event_at": null,
+  "started_at": "2026-03-28T02:12:58.480473+00:00",
+  "stopped_at": null
+}
